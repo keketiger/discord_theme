@@ -1,0 +1,15 @@
+/*//META{"name":"keketiger","description":"Theme created by keketiger for Discord app. Copyright keketiger 2019.","author":"keketiger","version":"1.0.0","website":"https://keketiger.fr"}*//**/
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif');
+@import url('https://keketiger.github.io/assets/discord_theme/version_1/theme.css');
+
+:root {
+	--bgImage: url('https://keketiger.github.io/assets/discord_theme/version_1/images/background.png');
+	--HomeButtonImg: url('https://keketiger.github.io/assets/discord_theme/version_1/images/logo.png');
+	--brightness: 0;
+	--customFont: 'Bree Serif';
+	--PrimaryColor01: #d11414;
+	--PrimaryColorRGBA: rgba(209,20,20,.15);
+	--PrimaryColor02: #9b3c31;
+	--RoleTitleColor: #ff3535;
+}
